@@ -11,9 +11,7 @@ class Parth:
         return f"{self.role} with {self.experience}, skilled in {', '.join(self.tools)}"
 ```
 
----
-
-## 📊 Stats
+## 📊 Github Stats
 
 <table align="center" cellpadding="0" cellspacing="10">
   <tr>
@@ -37,15 +35,12 @@ class Parth:
   </tr>
 </table>
 
----
-
 ## 🧰 Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=go,python,mongodb,postgresql,redis,docker,git,aws,ai&theme=dark"/>
 </p>
 
----
 
 ## 📢 Connect with Me
 
